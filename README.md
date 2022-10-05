@@ -1,5 +1,7 @@
 # HPMUDocs 2022
 
+[![Download from GitHub](https://img.shields.io/github/repo-size/MedPocket/HPMUDocs-2022?logo=github&label=Download)](https://github.com/MedPocket/HPMUDocs-2022/archive/refs/heads/main.zip)
+
 HPMUDocs 2022 là dự án lưu trữ kiến thức Y học 2022 của MedPocket.
 
 ## Đóng góp cho dự án
