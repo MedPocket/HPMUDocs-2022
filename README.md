@@ -6,7 +6,7 @@ HPMUDocs 2022 là dự án lưu trữ kiến thức Y học 2022 của MedPocket
 
 ## Đóng góp cho dự án
 
-Long Nhật Nguyễn, Lê Thu Quyên.
+Long Nhật Nguyễn, Lê Thu Quyên, Lê Ngọc Thu Cúc, Nguyễn Trung Hiếu, và nhiều người khác.
 
 ## Bản quyền
 
