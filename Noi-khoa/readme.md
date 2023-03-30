@@ -1,4 +1,4 @@
-# Nội khoa 2022
+# Nội khoa (dành cho năm 6)
 
 ## Nội dung
 
